@@ -1,0 +1,19 @@
+{
+  "name": "hotel-booking-system",
+  "version": "1.0.0",
+  "description": "Hotel Room Booking System - Express + SQLite",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "engines": {
+    "node": ">=22.13"
+  }
+}
